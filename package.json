@@ -1,0 +1,27 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmo/fcc_request_header_parser_microservice.git"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": "Shaocong Mo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmo/fcc_request_header_parser_microservice/issues"
+  },
+  "homepage": "https://github.com/scottmo/fcc_request_header_parser_microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ua-parser-js": "^0.7.12"
+  }
+}
